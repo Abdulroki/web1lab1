@@ -2,6 +2,6 @@
 ## belajar tag dasar HTML
 
 ### membuat paragraf
-kode tag untuk paragraf adalah '<p>'
+kode tag untuk paragraf adalah "<p>"
 ini adalah tampilannya
-![gambar 1](ss1/rokim.png)
+![gambar 1]ss1/rokim.png
